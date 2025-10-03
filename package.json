@@ -1,0 +1,16 @@
+{
+  "name": "playwright-library-starter-template",
+  "version": "1.0.0",
+  "main": "run.js",
+  "scripts": {
+    "test": "node run.js"
+  },
+  "keywords": [],
+  "author": "Will 保哥",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@playwright/browser-chromium": "^1.55.1",
+    "playwright": "^1.55.1"
+  }
+}
